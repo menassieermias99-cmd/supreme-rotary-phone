@@ -1,2 +1,2 @@
 # supreme-rotary-phone
-Personal Finance and Expense Tracker.
+Personal Finance and Expense Tracker Backend.
